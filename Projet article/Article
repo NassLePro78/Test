@@ -1,0 +1,46 @@
+body	{
+		 background-image:url("image papyrusse hela.jpg");
+		}
+
+h1		{
+		 font-family:Verdana;
+		 font-size:50px;
+		 font-weight:bold;
+		 font-style:italic;
+		 color:rgb(24, 224, 124);
+		 text-align:center;
+		}
+h2		{
+		 font-family:Comic Sans MS;
+		 font-size:30px;
+		 font-weight:normal;
+		 color:blue;
+		}
+h3 		{
+		 font-family:Comic Sans MS;
+		 font-size:30px;
+		 font-weight:normal;
+		 color:blue;
+		}
+h4		{ 		
+		 font-family:Comic Sans MS;
+		 font-size:30px;
+		 font-weight:normal;
+		 color:blue;
+		}
+h5 		{
+		 font-family:Comic Sans MS;
+		 font-size:30px;
+		 font-weight:normal;
+		 color:blue;
+		}
+p		{
+		font-family:Century;	
+		color:black;
+		font-size: 25px;
+		}
+a  		{
+		font-family:Comic Sans MS;
+		font-size:25px;
+		color:black;
+		}
